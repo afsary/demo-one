@@ -1,0 +1,72 @@
+(base) nasim@abimacbookpro ~ % pwd
+/Users/nasim
+(base) nasim@abimacbookpro ~ % cd projects/
+(base) nasim@abimacbookpro projects % git init demo-one
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/nasim/Projects/demo-one/.git/
+(base) nasim@abimacbookpro projects % cd demo-one
+(base) nasim@abimacbookpro demo-one % ls
+(base) nasim@abimacbookpro demo-one % nano test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                             File: test.txt                             Modified  
+
+sdfsd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help     ^O WriteOut     ^R Read File    ^Y Prev Pg      ^K Cut Text     ^C Cur Pos      
+^X Exit         ^J Justify      ^W Where is     ^V Next Pg      ^U UnCut Text   ^T To Spell    
